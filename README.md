@@ -11,6 +11,10 @@
 
 这是一个专为 **OpenCode AI 助手** 设计的 **雷诺曼十字牌阵占卜技能**。让你的 AI 不再只是冷冰冰的代码机器，而是能成为一位神秘的占卜师，为用户提供情感、学业、决策的全景式指引。
 
+借助 **qwen3.5-plus AI**, 创作skill.
+
+**仅供学习参考!**
+
 > 🎴 **十字牌阵 (The Cross Spread)** 是雷诺曼系统中最经典的 5 张牌阵，揭示时间线（过去 - 现在 - 未来）与行动策略（助力 - 挑战）的双重维度。
 
 ---
@@ -21,7 +25,7 @@
 
 ```bash
 # 克隆到你的 OpenCode 项目
-git clone https://github.com/YOUR_USERNAME/lenormand-divination-skill.git
+git clone https://github.com/quetzal-china/lenormand-divination-skill.git
 
 # 复制 skill 到你的 OpenCode 配置目录
 cp -r lenormand-divination-skill/.opencode/skills/lenormand-cross-spread ~/.config/opencode/skills/
@@ -134,6 +138,6 @@ MIT License - 自由使用、修改、分发
 
 **Made with 🔮 and ✨ for the curious minds**
 
-[Report Bug](https://github.com/YOUR_USERNAME/lenormand-divination-skill/issues) · [Request Feature](https://github.com/YOUR_USERNAME/lenormand-divination-skill/issues)
+[Report Bug](https://github.com/quetzal-china/lenormand-divination-skill/issues) · [Request Feature](https://github.com/quetzal-china/lenormand-divination-skill/issues)
 
 </div>
