@@ -1,0 +1,28 @@
+# AI 占卜技能 · 雷诺曼十字牌阵
+
+为 OpenCode AI 助手添加神秘学占卜能力
+
+## 安装
+
+将 `.opencode/skills/lenormand-cross-spread` 目录复制到你的 OpenCode 配置目录：
+
+**项目级：**
+```
+cp -r .opencode/skills/lenormand-cross-spread your-project/.opencode/skills/
+```
+
+**全局级：**
+```
+cp -r .opencode/skills/lenormand-cross-spread ~/.config/opencode/skills/
+```
+
+## 使用
+
+启动 OpenCode 后直接提问：
+```
+帮我用雷诺曼十字牌阵占卜一下学业运势
+```
+
+## 许可证
+
+MIT
